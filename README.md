@@ -3,7 +3,7 @@
 My personal portfolio site — the public face of my GitHub. Built with plain
 HTML, CSS, and JavaScript: no frameworks, no build step, deploys anywhere.
 
-**Live:** https://stately-pie-3411a1.netlify.app
+**Live:** https://zunair-qadeer-portfolio.netlify.app
 
 ## What's on it
 
